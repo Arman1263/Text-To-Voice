@@ -16,8 +16,8 @@ This **AI-Powered Voice Generator** is a Python-based application that converts 
 ## 📸 Screenshot
 ### 🎤 Main Interface
 ![Main UI](https://github.com/Arman1263/Text-To-Voice/blob/f3afd87307015cd1b77d0bd71c0d96b9f1fffa65/img.png)
-### 🎙️ Voice Options
-![Voice Options](image_placeholder.png)
+### 🎙️ Voice Output
+![Voice Options](https://github.com/Arman1263/Text-To-Voice/blob/05e3782cfe42ea134c4051da492176d774e2c154/img1.png)
 
 ## 🛠️ Installation
 Follow these steps to set up and run the project locally.
@@ -73,9 +73,9 @@ Contributions are welcome! If you’d like to improve the project:
 This project is **open-source** and available under the **MIT License**.
 
 ## 📬 Contact
-💡 **Author:** Your Name  
-📧 **Email:** your.email@example.com  
-🌍 **GitHub:** [Your GitHub](https://github.com/your-username)  
+💡 **Author:** Arman Amir Shikalgar
+📧 **Email:** armanshikalgar01@gmail.com 
+🌍 **GitHub:** [My GitHub](https://github.com/Arman1263)  
 📢 Feel free to connect and contribute! 🚀
 
 ---
