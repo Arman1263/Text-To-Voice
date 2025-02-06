@@ -1,0 +1,7 @@
+streamlit
+pyttsx3
+gtts
+librosa
+soundfile
+numpy
+pydub
