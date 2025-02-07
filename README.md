@@ -2,6 +2,9 @@
 
 *A smart and efficient Text-to-Speech application with voice modification and enhancement.*
 
+# Can Previw 
+https://huggingface.co/spaces/MrHalk/Text-To-Voice
+
 ## 🚀 About the Project
 This **AI-Powered Voice Generator** is a Python-based application that converts text into speech with natural, clear voices. The app allows users to generate and modify voices using **offline** (pyttsx3) and **online** (Google TTS) engines. Additionally, users can change the voice pitch (male/female) and download the generated audio.
 
@@ -15,9 +18,7 @@ This **AI-Powered Voice Generator** is a Python-based application that converts 
 
 ## 📸 Screenshot
 ### 🎤 Main Interface
-![Main UI](https://github.com/Arman1263/Text-To-Voice/blob/f3afd87307015cd1b77d0bd71c0d96b9f1fffa65/img.png)
-### 🎙️ Voice Output
-![Voice Options](https://github.com/Arman1263/Text-To-Voice/blob/05e3782cfe42ea134c4051da492176d774e2c154/img1.png)
+![Main UI](https://github.com/Arman1263/Text-To-Voice/blob/8aa805a8c19feb8d95ba909c6602156bab3c92ed/img.png)
 
 ## 🛠️ Installation
 Follow these steps to set up and run the project locally.
